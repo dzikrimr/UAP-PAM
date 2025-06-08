@@ -42,7 +42,7 @@ The app has been manually tested across various screen sizes and Android API lev
 **Student ID:** _[235150701111008]_  
 **Course:** Pengembangan Aplikasi Mobile
 **Semester:** Genap 2024/2025  
-**Class:** _[TI-A]_  
+**Class:** TI-D  
 
 ## 📌 Notes
 
