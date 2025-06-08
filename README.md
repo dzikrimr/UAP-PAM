@@ -38,8 +38,8 @@ The app has been manually tested across various screen sizes and Android API lev
 
 ## 🧑‍💻 Author
 
-**Name:** Dzikri Murtadlo 
-**Student ID:** _[235150701111008]_  
+**Name:** Dzikri Murtadlo
+**Student ID:** 235150701111008 
 **Course:** Pengembangan Aplikasi Mobile
 **Semester:** Genap 2024/2025  
 **Class:** TI-D  
