@@ -29,7 +29,7 @@ This mobile application demonstrates the implementation of modern Android develo
 - **Language:** Java  
 - **UI Design:** XML  
 - **IDE:** Android Studio  
-- **Database:** SharedPreferences (local)  
+- **Database:** Remote: RESTful API with backend database
 - **Target SDK:** API 29+
 
 ## 🧪 Testing
