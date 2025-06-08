@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.UAPPAM" parent="Theme.MaterialComponents.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.UAPPAM" parent="Base.Theme.UAPPAM" />
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Disable dark mode by using the light theme -->
+        <item name="android:forceDarkAllowed">false</item>
+        <!-- Transparent status bar -->
+        <item name="android:statusBarColor">@color/green</item>
+        <!-- Transparent navigation bar -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
